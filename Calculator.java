@@ -20,7 +20,7 @@ public class Calculator {
             System.out.println("5. Exit");
             System.out.print("Enter your choice (1-5): ");
             
-            // Read user's choice
+            // User's choice
             choice = scanner.nextInt();
 
             // Perform operations based on the choice
